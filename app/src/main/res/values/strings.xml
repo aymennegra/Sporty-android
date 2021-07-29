@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Sporty</string>
+    <string name="xbree">Sporty</string>
+    <string name="go_beyond_your_free_time">Welcome to your new home</string>
+    <string name="login_with_gmail">LOGIN WITH GMAIL</string>
+    <string name="title_activity_nav_bar">nav_bar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="acceuil">Acceuil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_ajouter_event">AjouterEvent</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="facebook_app_id">683756852289038</string>
+    <string name="fb_login_protocol_scheme">fb2466038817033081</string>
+    <string-array name="categories">
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>Volleyball</item>
+        <item>Handball</item>
+        <item>Tennis</item>
+        <item></item>
+    </string-array>
+
+
+</resources>
